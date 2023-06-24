@@ -75,3 +75,6 @@ boolean z;
 char c;
 String s;
 ```
+
+指定資料
+![替代文字](var.png)
