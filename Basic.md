@@ -75,5 +75,3 @@ boolean z;
 char c;
 String s;
 ```
-```
-
