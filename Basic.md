@@ -78,3 +78,6 @@ String s;
 
 指定資料
 ![替代文字](var.png)
+
+範圍大小的排序
+double > float > long > int > short >byte
